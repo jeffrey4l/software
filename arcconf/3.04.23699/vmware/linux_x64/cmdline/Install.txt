@@ -1,0 +1,4 @@
+Instructions to run remote arcconf on Linux Environment.
+
+* User needs to add current arcconf binary path to the LD_LIBRARY_PATH. 
+  export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$PWD

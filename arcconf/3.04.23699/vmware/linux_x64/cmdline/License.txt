@@ -1,0 +1,105 @@
+Software License Agreement
+PLEASE READ CAREFULLY: THE USE OF THIS SOFTWARE IS SUBJECT TO THE SOFTWARE LICENSE TERMS
+OF MICROSEMI CORPORATION, AND OTHER LICENSORS WHOSE SOFTWARE MAY BE BUNDLED WITH THIS PRODUCT.
+BY YOUR USE OF THE SOFTWARE INCLUDED WITH THIS PRODUCT YOU AGREE TO THE LICENSE TERMS
+REQUIRED BY THE LICENSOR OF THAT SOFTWARE, AS SET FORTH DURING THE INSTALLATION PROCESS.
+IF YOU DO NOT AGREE TO THE LICENSE TERMS APPLICABLE TO THE SOFTWARE, YOU MAY RETURN THE
+ENTIRE UNUSED PRODUCT FOR A FULL REFUND.
+In return for acquiring a license to use the Microsemi software, which may include software from third
+party licensors and patches made available by Microsemi (“Software”), and the related documentation,
+you agree to the following terms and conditions:
+1. License. This Agreement grants you, the Licensee, a license to:
+a. Use the Software on a single computer system, which is not intended for use by more than five
+(5) users; and:
+b. Make one copy of the Software in machine readable form solely for back-up purposes, provided
+you reproduce Microsemi's copyright proprietary legends. Notwithstanding the foregoing, the
+Software may be used on the home, laptop or other secondary computer of the principal user
+of the Software, and an additional copy of the Software may be made to support such use. As
+used in this license, the Software is “in use” when it is either loaded into RAM or installed on a
+hard disk or other permanent memory device. The Software may be “in use” on only one computer
+at any given time. (Different license terms and fees are applicable for networked or multiple user
+applications.) As a specific condition of this license, you agree to use the Software in compliance
+with all applicable laws, including copyright laws, and that you will not copy, transmit, perform
+or distribute any audio or other content using the Software without obtaining all necessary
+licenses or permissions from the owner of the content.
+2. Restrictions. You may not distribute copies of the Software to others or electronically transfer the
+Software from one computer to another over a network. You may not post or otherwise make
+available the Software, or any portion thereof, in any form, on the Internet. You may not use the
+Software in a computer service business, including in time sharing applications. The Software contains
+trade secrets and, in order to protect them, you may not decompile, reverse engineer, disassemble,
+or otherwise reduce the Software to a human-perceivable form. YOU MAY NOT MODIFY, ADAPT,
+TRANSLATE, RENT, LEASE, LOAN, RESELL FOR PROFIT, DISTRIBUTE, NETWORK OR CREATE DERIVATIVE
+WORKS BASED UPON THE SOFTWARE OR ANY PART THEREOF.
+3. Ownership of Software. As Licensee, you own the media upon which the software is recorded or
+fixed, but Microsemi and its licensors retain title and ownership of the Software recorded on the
+original media and all subsequent copies of the Software, regardless of the form or media in which
+or on which the original and other copies may exist. This license is not a sale of the Software or any
+copy.
+4. Confidentiality. You agree to maintain the Software in confidence and that you will not disclose the
+Software to any third party without the express written consent of Microsemi. You further agree
+to take all reasonable precautions to preclude access of unauthorized persons to the Software.
+5. Term. This license is effective until January 1, 2045, unless terminated earlier. You may terminate
+the license at any time by destroying the Software (including the related documentation) together
+with all copies or modifications in any form. Microsemi will have the right to terminate our license
+immediately if you fail to comply with any term or condition of this Agreement. Upon any termination,
+including termination by you, you must destroy the Software (including the related documentation),
+together with all copies or modifications in any form.
+6. Special Terms Applicable to Databases. Where a database is included with the Software, you
+acknowledge that it is licensed only in connection with the use of the Software to perform disc
+creation, and that the database and all data derived therefrom must be maintained in confidence
+in accordance with the provisions of Section 4. This license does not grant you any rights to distribute
+or disclose such database or data.
+7. Limited Warranty. Microsemi and its Licensor warrant only that the media upon which the Software
+is furnished will be free from defects in material or workmanship under normal use and service for
+a period of thirty (30) days from the date of delivery to you. MICROSEMI AND ITS LICENSORS DO
+NOT AND CANNOT WARRANT THE PERFORMANCE OR RESULTS YOU MAY OBTAIN BY USING THE
+SOFTWARE OR DOCUMENTATION. THE FOREGOING STATES THE SOLE AND EXCLUSIVE REMEDIES
+MICROSEMI AND ITS LICENSORS WILL PROVIDE FOR BREACH OF WARRANTY. EXCEPT FOR THE
+FOREGOING LIMITED WARRANTY, MICROSEMI AND ITS LICENSORS MAKE NO WARRANTIES,
+EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED, AS TO NON-INFRINGEMENT OF THIRD PARTY
+RIGHTS, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. Some states do not allow the
+exclusion of implied warranties or limitations on how long an implied warranty may last, so the
+above limitations may not apply to you. This warranty gives you specific legal rights and you may
+also have other rights which vary from state to state.
+8. The entire liability of PMC-Sierra and its licensors, and your exclusive remedy for a breach of this
+warranty, shall be:
+a. The replacement of any media not meeting the above limited warranty which is returned to
+PMC-Sierra; or:
+b. if PMC-Sierra or its distributor is unable to deliver replacement media which is free from defects
+in materials or workmanship, you may terminate this Agreement by returning the Software and
+your money will be refunded.
+9. Limitation of Liability. IN NO EVENT WILL MICROSEMI OR ITS LICENSORS BE LIABLE TO YOU FOR ANY
+INCIDENTAL, CONSEQUENTIAL OR INDIRECT DAMAGES, INCLUDING ANY LOST PROFITS, LOST SAVINGS,
+OR LOSS OF DATA, EVEN IF MICROSEMI OR A LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGES, OR FOR ANY CLAIM BY ANY OTHER PARTY. Some states do not allow the exclusion
+or limitation of special, incidental, or consequential damages, so the above limitation or exclusion
+may not apply to you.
+10. Export. You acknowledge that the laws and regulations of the United States and other countries
+may restrict the export and re-export of the Software. You agree that you will not export or re-export
+the Software or documentation in any form in violation of applicable United States and foreign law.
+11. Government Restricted Rights. The Software is subject to restricted rights as follows. If the Software
+is acquired under the terms of a GSA contract: use, reproduction or disclosure is subject to the
+restrictions set forth in the applicable ADP Schedule contract. If the Software is acquired under the
+terms of a DoD or civilian agency contract, use, duplication or disclosure by the Government is subject
+to the restrictions of this Agreement in accordance with 48 C.F.R. 12.212 of the Federal Acquisition
+Regulations and its successors and 49 C.F.R. 227.7202-1 of the DoD FAR Supplement and its successors.
+12. General. You acknowledge that you have read this Agreement, understand it, and that by using the
+Software you agree to be bound by its terms and conditions. You further agree that it is the complete
+and exclusive statement of the agreement between PMC-Sierra and you, and supersedes any proposal
+or prior agreement, oral or written, and any other communication between PMC-Sierra and you
+relating to the subject matter of this Agreement. No additional or any different terms will be
+enforceable against PMC-Sierra unless PMC-Sierra gives its express consent, including an express
+waiver of the terms of this Agreement, in writing signed by an officer of PMC-Sierra. You assume
+full responsibility for the use of the Software and agree to use the Software legally and responsibly.
+This Agreement shall be governed by California law, except as to copyright matters, which are covered
+by Federal law. This Agreement is deemed entered into at Sunnyvale, California by both parties.
+Should any provision of this Agreement be declared unenforceable in any jurisdiction, then such
+provision shall be deemed severable from this Agreement and shall not affect the remainder hereof.
+All rights in the Software not specifically granted in this Agreement are reserved by PMC-Sierra.
+Should you have any questions concerning this license, contact:
+MICROSEMI Corporation.
+Legal Department
+1380 Bordeaux Drive
+Sunnyvale, CA 94089
+(408) 239-8000
+Proprietary
